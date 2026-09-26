@@ -2,9 +2,9 @@
 
 
 
-# Dupla: Irislayne e Gabriel Aparecido
+# Grupo: Irislayne , Gabriel Aparecido,Joao Vitor,Gabriel Malta,Pedro Gruppelli,Victor de Oliveira,Jader Lucas , Pedro Marques.
 
-# Disciplina: Gerência de Configuração (ESW432)
+# Disciplina: Gerencia de Configurcao (ESW432)
 
-# Objetivo: Este repositório tem como objetivo aplicar na prática os conceitos de Gerência de Configuração de Software (GCS) utilizando Git e GitHub.
+# Objetivo: Este repositorio tem como objetivo aplicar na pratica os conceitos de Gerencia de Configuracao de Software (GCS) utilizando Git e GitHub.
 
